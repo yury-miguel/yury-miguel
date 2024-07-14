@@ -39,5 +39,5 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Desenvolvim
 ![Estatísticas do GitHub de Yury Miguel](https://github-readme-stats.vercel.app/api?username=yury-miguel&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
-- LinkedIn: [Yury Miguel](https://www.linkedin.com/in/yury-miguel/)
+- LinkedIn: [Yury Miguel](https://www.linkedin.com/in/yury-miguel-827478315/)
 - E-mail: yurymiguelc1@gmail.com
