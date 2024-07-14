@@ -24,6 +24,11 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Desenvolvim
 - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ![YOLO](https://img.shields.io/badge/-YOLO-990000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWElEQVRIDZWTwY7CQBBFb9LhEWXFCxZjVpg4yIDhYdCCMzITGFiISiMzEwFl1HBYN8+G/J2f7e3xjMyY+dnct+k/RdPruQvyHPDjzADPQI3RwSxHHjVpGfTzDAdFoEQQ2WwBd6AlTAVdUBrcAP9rJVE+Tmd5M8r+4JasCD4AfoAO4BLgCC4B9Y7gA7wMPCNnuAq+AN/gk8FNAI3Df9+zK6fL1n1ZqjfrwZ1Aa6R3AZrleVgD3zBzJvHcG9SXc5yFOgLXAe2wE3A/3A3so6omOS3Vj5J2wa/7LaRm/Q1NbCq5wGV/AVqAFKgUVgKViE6fV+/y6JfBGUeX6+V8G+3y32zAw2Q8ZGKRVEf4J2ZpGfrM7R58l3Rd8A5wKvoZmBHwK3p4eB/ClT8n4EbAC6C7gJ1zL+XwCcBt8B7q+VXbJdlX3zJ2Te+BNYPGfhnZ2WJXXwB9zALJqQ/1iYkRXwTzW9X2wJXgP7zbtQVX3TdP0nXwYntnbd/gNWbTb/Ae8Ac4F7sCvgKOA/8TwP/jn27gD7gf1A9rj6YKsAAAAASUVORK5CYII=&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
 
 ### Outros Conhecimentos
 - ![Redes de Computadores](https://img.shields.io/badge/-Redes%20de%20Computadores-007ACC?style=flat-square&logo=cisco&logoColor=white)
