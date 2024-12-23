@@ -1,6 +1,6 @@
 # Olá, eu sou Yury Miguel! 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Desenvolvimento Embarcado, Desenvolvimento de Software, Machine Learning e IoT.
+Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Data Science, IoT (Desenvolvimento Embarcado) e Desenvolvimento de Software.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -9,17 +9,15 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Desenvolvim
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Bancos de Dados e Cloud
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) (Amazon Web Services)
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### Sistemas Operacionais
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) (Debian, Ubuntu)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) (Yocto, Debian, Ubuntu)
 - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### Frameworks
