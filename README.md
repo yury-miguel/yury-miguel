@@ -1,6 +1,6 @@
 # Olá, eu sou Yury Miguel! 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Data Science, IoT (Desenvolvimento Embarcado) e Desenvolvimento de Software e Automações.
+Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Analise e Ciência de Dados, Inteligência Artificial e Desenvolvimento de Softwares e Automações.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -11,6 +11,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Data Scienc
 ### Bancos de Dados
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Frameworks Backend
@@ -21,7 +22,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Data Scienc
 - ![Axum](https://img.shields.io/badge/-Axum-000000?style=flat-square&logo=axum&logoColor=white)
 
 ### Frameworks Data Science
-- ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,18 +36,13 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Data Scienc
 - ![Transformers](https://img.shields.io/badge/-Transformers-9B51E0?style=flat-square&logo=python&logoColor=white)
 - ![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat-square&logo=python&logoColor=white)
 
-### Desenvolvimento Firmware/Embarcados
-- Stm32
-- Arduino
-- Esp32
-
 ### Outros Conhecimentos Relevantes
 - ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 - ![Computação em Nuvem](https://img.shields.io/badge/-Computação%20em%20Nuvem-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 - ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-- BigData
+- ![Smart Data](https://img.shields.io/badge/-Smart%20Data-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub de Yury Miguel](https://github-readme-stats.vercel.app/api?username=yury-miguel&show_icons=true&theme=radical)
