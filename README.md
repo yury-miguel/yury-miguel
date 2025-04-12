@@ -7,7 +7,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Data Scienc
 ### Linguagens de Programação
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-- JavaScript Básico
 
 ### Bancos de Dados
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
