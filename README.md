@@ -1,6 +1,6 @@
 # Olá, eu sou Yury Miguel! 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Analise e Ciência de Dados, Inteligência Artificial e Desenvolvimento de Softwares e Automações.
+Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com Desenvolvimento de Softwares e Automações, Análise e Ciência de Dados e Softwares de alto desempenho.
 
 ## 🚀 Tecnologias e Ferramentas
 
