@@ -27,7 +27,7 @@ Tenho experiência no design arquitetural e desenvolvimento de softwares.
 - ![Rocket](https://img.shields.io/badge/-Rocket-000000?style=flat-square&logo=rust&logoColor=white)
 - ![Axum](https://img.shields.io/badge/-Axum-000000?style=flat-square&logo=rust&logoColor=white)
 
-### 📊 Frameworks & Ferramentas de Dados
+### 📊 Frameworks de Dados
 - ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 - ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -39,14 +39,14 @@ Tenho experiência no design arquitetural e desenvolvimento de softwares.
 - ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### ☁️ Infraestrutura, Cloud & Observabilidade
+### ☁️ Infraestrutura e Cloud
 - ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 - ![Smart Data](https://img.shields.io/badge/-Smart%20Data-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
-### ⚡ Sistemas Embarcados & Alta Performance
+### ⚡ Sistemas Embarcados e Alta Performance
 - Programação de baixo nível e controle explícito de memória
 - Concorrência, paralelismo e **cache locality**
 - Sistemas **event-driven** e **lock-free**
