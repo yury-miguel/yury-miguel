@@ -32,6 +32,12 @@ Tenho experiência no design arquitetural e desenvolvimento de softwares.
 - ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![Polars](https://img.shields.io/badge/-Polars-00A9E0?style=flat-square&logo=python&logoColor=white)
+- ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+- ![Transformers](https://img.shields.io/badge/-Transformers-9B51E0?style=flat-square&logo=python&logoColor=white)
+- ![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat-square&logo=python&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+- ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 ### ☁️ Infraestrutura, Cloud & Observabilidade
 - ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
