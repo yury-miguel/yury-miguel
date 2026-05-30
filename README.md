@@ -1,7 +1,6 @@
 # Olá, sou Yury Miguel! 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo com Engenharia de Software voltada para parte em Dados, Sistemas Distribuídos, Alta Performance e Sistemas Embarcados.
-Tenho experiência no design arquitetural e desenvolvimento de softwares.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo com todo ecosistema de Dados, Sistemas Distribuídos, Sistemas de Alta Performance e Sistemas Embarcados.
 
 ### Linguagens de Programação
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
